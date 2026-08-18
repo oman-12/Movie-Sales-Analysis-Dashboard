@@ -95,7 +95,7 @@ Movie-Sales-PowerBI/
 ## 📷 Dashboard Preview
 
 ```markdown
-![Movie Sales Dashboard](Screenshot/dashboard.png)
+![Movie Sales Dashboard](./Screenshot/dashboard.png)
 ```
 
 ## 📚 Learning Outcomes
