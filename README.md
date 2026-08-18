@@ -95,8 +95,6 @@ Movie-Sales-PowerBI/
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your Power BI dashboard here:
-
 ```markdown
 ![Movie Sales Dashboard](Screenshots/dashboard.png)
 ```
