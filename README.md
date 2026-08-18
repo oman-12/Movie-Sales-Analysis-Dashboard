@@ -96,7 +96,7 @@ Movie-Sales-PowerBI/
 
 
 ![Movie Sales Dashboard](./Screenshot/dashboard.png)
-
+![Movie Sales Dashboard](./Screenshot/dashboard2.png)
 ## 📚 Learning Outcomes
 
 Through this project, I gained practical experience in:
