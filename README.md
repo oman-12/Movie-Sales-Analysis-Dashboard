@@ -77,8 +77,7 @@ Movie-Sales-PowerBI/
 ├── README.md
 ├── LICENSE
 ├── Movie_Sales_Dashboard.pbix
-├── Dataset/
-│   └── movie_sales_data.csv
+├── movie_sales_data.csv
 └── Screenshots/
     └── dashboard.png
 ```
